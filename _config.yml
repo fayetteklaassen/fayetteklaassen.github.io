@@ -4,15 +4,15 @@
 
 # Added test
 #remote_theme: "rohanchandra/type-theme"
-title: A personal page about Continuous-Time Dynamic Modeling with Experience Sampling Data in Psychology
+title: Website
 # Name of your site (displayed in the header)
-name: Oisín Ryan
+name: Fayette Klaassen
 
 # Short bio or description (displayed in the header)
 description: PhD researcher Methods and Statistics
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars3.githubusercontent.com/u/19952460?s=400&u=a34dda2b7fbf9c4cb747a43748b4ad6a1210f467&v=4
+avatar: https://avatars1.githubusercontent.com/u/25056216?s=400&u=f1d821cbb5500c1ea7eb3c349d8ddd2fc93f382a&v=4
 
 #
 # Flags below are optional
@@ -21,19 +21,19 @@ avatar: https://avatars3.githubusercontent.com/u/19952460?s=400&u=a34dda2b7fbf9c
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: o.ryan@uu.nl
+  email: f.klaassen@uu.nl
   facebook:
   flickr:
-  github: ryanoisin
+  github: fayetteklaassen
   instagram:
-  linkedin:
+  linkedin: fayette-klaassen
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
-  utrechtuni: ORyan
+  utrechtuni: FKlaassen
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
@@ -41,7 +41,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-113287238-1
+google_analytics: 
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
@@ -61,11 +61,11 @@ permalink: /:title/
 
 # Social links for use with SEO
 social:
-  name: Oisín Ryan
+  name: Fayette Klaassen
   links: 
-  - https://www.linkedin.com/in/oisin-ryan-21406093/
-  - https://www.uu.nl/staff/ORyan
-  - https://www.researchgate.net/profile/Oisin_Ryan
+  - https://www.linkedin.com/in/fayette-klaassen/
+  - https://www.uu.nl/staff/FKlaassen
+  - https://www.researchgate.net/profile/Fayette_Klaassen
   
 
 # The release of Jekyll Now that you're using
