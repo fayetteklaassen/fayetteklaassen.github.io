@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /
 ---
 
 I am a PhD candidate in the Methods and Statistics department (faculty of Social Sciences) at Utrecht University. 
