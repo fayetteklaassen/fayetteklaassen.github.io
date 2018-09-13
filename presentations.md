@@ -7,7 +7,7 @@ permalink: /presentations/
 ## 2018
 
 **Klaassen, F.**, Zedelius, C., Veling, H., Aarts, H., & Hoijtink, H. (2018). 
-Updating Bayes Factors within a dataset. *Invited talk at Graduate Summer School: A gentle introduction into Bayesian statistics, Utrecht, the Netherlands.* [[Slides]](https://github.com/fayetteklaassen/fayetteklaassen.github.io/blob/master/files/presentations/2018-SummerSchool.pdf)
+Updating Bayes Factors within a dataset. *Invited talk at Graduate Summer School: A gentle introduction into Bayesian statistics, Utrecht, the Netherlands.* [[Slides]](https://fayetteklaassen.github.io/files/presentations/2018-SummerSchool.pdf)
 
 **Klaassen, F.**, Lek, K.M., Ni, H., Veen, D., & Winter, S., Zondervan-Zwijnenburg, M.A.J. (2018). 
 Organizer and chair of symposium: Applying subjective Bayes to real life data. *EAM Conference, Jena, Germany.* 
