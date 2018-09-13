@@ -4,7 +4,7 @@ title: Presentations
 permalink: /presentations/
 ---
 
-##2018
+## 2018
 
 **Klaassen, F.**, Zedelius, C., Veling, H., Aarts, H., & Hoijtink, H. (2018). 
 Updating Bayes Factors within a dataset. 
@@ -17,7 +17,7 @@ Organizer and chair of symposium: Applying subjective Bayes to real life data. *
 
 **Klaassen, F.**, Zedelius, C., Veling, H., Aarts, H., & Hoijtink, H. (2018). Presentation: One for all or some for all? \textit{S$^4$ (Small Sample Size Solutions, Utrecht, the Netherlands.}}
 
-##2014-2017
+## 2014-2017
 
 **Klaassen, F.** (2017). Presentation: Staying in the loop: Prior probabilities, Bayes factor, posterior probabilities. *Perspectives on Scientific Error*, Tilburg, the Netherlands.
 
