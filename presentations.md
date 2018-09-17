@@ -6,6 +6,8 @@ permalink: /presentations/
 
 ## 2018
 
+**Klaassen, F.** (2018). Presentation: All for one of some for all? *DGPS, Frankfurt am Main, Germany* [[Slides]](https://fayetteklaassen.github.io/files/presentations/2018-DGPS.pdf)
+
 **Klaassen, F.**, Zedelius, C., Veling, H., Aarts, H., & Hoijtink, H. (2018). 
 Updating Bayes Factors within a dataset. *Invited talk at Graduate Summer School: A gentle introduction into Bayesian statistics, Utrecht, the Netherlands.* [[Slides]](https://fayetteklaassen.github.io/files/presentations/2018-SummerSchool.pdf)
 
