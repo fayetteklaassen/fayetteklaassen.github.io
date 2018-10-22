@@ -3,7 +3,7 @@
 #
 
 # Added test
-#remote_theme: "rohanchandra/type-theme"
+remote_theme: jekyll-theme-minimal
 title: Website
 # Name of your site (displayed in the header)
 name: Fayette Klaassen
