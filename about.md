@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a PhD candidate in the Methods and Statistics department (faculty of Social Sciences) at Utrecht University. 
+In september 2015 I started as a PhD candidate at the Methodology and Statistics Department of Utrecht University. Here you can find an overview of my research and presentations.
 
 ### Contact me
 
