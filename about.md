@@ -10,7 +10,7 @@ She started her PhD under supervision of prof.dr. Herbert Hoijtink and prof.dr. 
 
 During a research visit to prof.dr. Jeff Rouder at University of California, Irvine in 2019, she compared single case analysis and multilevel approaches to assess whether a theory applies to every case in a population. Throughout her PhD she has applied Bayesian methodology in collaboration with various researchers from literary studies, clinical, developmental and social psychology.
 
-Here you can find an overview of [my research](paper.md) and [presentations](presentations.md).
+Here you can find an overview of [my research](papers.md) and [presentations](presentations.md).
 
 ### Contact me
 
