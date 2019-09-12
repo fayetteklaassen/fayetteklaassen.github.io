@@ -8,9 +8,10 @@ permalink: /papers/
 - **Klaassen, F.** (under review). *Staying in the loop: Prior odds, Bayes factor, posterior odds.* 
 - **Klaassen, F.**, Hoijtink, H., & Gu, X. (under review). *The power of informative hypotheses.* [[Pre-print]](https://doi.org/10.17605/OSF.IO/D9EAJ)
 - Haaf, J., **Klaassen, F.**, & Rouder, J. (manuscript in preparation for submission). *A note on using systems of orders to capture theoretical constraint in psychological science.* [[Pre-print]](https://doi.org/10.31234/osf.io/a4xu9)
+- Miocevic, M., **Klaassen, F.**, Geuke, G., Moeyaert, M., & Maric, M. (under review). *Using Bayesian methods to test mediators of intervention outcomes in single case experimental designs (SCEDs).*
 
 ### In press
-- **Klaassen, F.** (in press). Combining evidence over multiple individual analyses. In R. Van de Schoot & M. Mio{\v{c}}evi{\'{c}} (Eds.), *Small sample size solutions: A guide for applied researchers and practitioners.* Routledge.
+- **Klaassen, F.** (in press). Combining evidence over multiple individual analyses. In R. Van de Schoot & M. Miocevic (Eds.), *Small sample size solutions: A guide for applied researchers and practitioners.* Routledge.
 
 ### Published 
 - Kuiling, J.M.E., **Klaassen, F.** & Hagenaars, M.A. (2019). The role of tonic immobility and control in the development of intrusive memories after experimental trauma. *Memory, 27*(6). [[Full-text]](https://doi.org/10.1080/09658211.2018.1564331)
