@@ -12,7 +12,7 @@ During a research visit to prof.dr. Jeff Rouder at University of California, Irv
 
 Here you can find an overview of [my research](papers.md), [presentations](presentations.md) at conferences and workshops, and [software](software.md) I developed.
 
-You can download my complete resume [here (version August 2019)](resume.md).
+You can download my complete resume [here (version September 2019)](resume.pdf).
 
 ### Contact me
 
