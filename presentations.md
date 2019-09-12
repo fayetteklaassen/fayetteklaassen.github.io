@@ -3,8 +3,15 @@ layout: page
 title: Presentations
 permalink: /presentations/
 ---
+## 2019
+
+**Klaassen, F.**, Kumar, A. and Rouder, J. (2019). Presentation: (Not) everybody does: Testing for individual differences and similarities in hierarchical data. *International Multilevel Conference, Utrecht, the Netherlands.* [[Slides]](https://fayetteklaassen.github.io/files/presentations/2019-MLslides.pdf)
 
 ## 2018
+
+**Klaassen, F.** (2018). Presentation: Prior probabilities: Why, What, and How? *IOPS Winter Conference, CITO, Arnhem, The Netherlands.* [[Slides]](https://fayetteklaassen.github.io/files/presentations/2018-IOPStalk.pdf)
+
+**Klaassen, F.** (2018). Poster: Staying in the loop. *Perspectices on Scientific Error, Groningen, the Netherlands.* [[Poster]](https://fayetteklaassen.github.io/files/presentations/2018-PosterPSE.pdf)
 
 **Klaassen, F.** (2018). Presentation: All for one of some for all? *DGPS, Frankfurt am Main, Germany* [[Slides]](https://fayetteklaassen.github.io/files/presentations/2018-DGPS.pdf)
 
