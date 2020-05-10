@@ -16,7 +16,7 @@ You can download my complete resume [here (version March 2020)](https://fayettek
 
 ### Contact me
 
-[f.klaassen@uu.nl](mailto:f.klaassen@uu.nl)
+[klaassen.fayette@gmail.com](mailto:klaassen.fayette@gmail.com)
 
-[Utrecht University profile](https://www.uu.nl/staff/FKlaassen)
+[LinkedIn profile](https://www.linkedin.com/in/fayette-klaassen/)
 
