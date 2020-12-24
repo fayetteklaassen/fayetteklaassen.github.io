@@ -10,7 +10,7 @@ permalink: /papers/
 - Haaf, J., **Klaassen, F.**, & Rouder, J. (manuscript in preparation for submission). *A note on using systems of orders to capture theoretical constraint in psychological science.* [[Pre-print]](https://doi.org/10.31234/osf.io/a4xu9)
 
 ### Published 
-- Miocevic, M., **Klaassen, F.**, Geuke, G., Moeyaert, M., & Maric, M. (2020). *Using Bayesian methods to test mediators of intervention outcomes in single case experimental designs (SCEDs).*
+- Miocevic, M., **Klaassen, F.**, Geuke, G., Moeyaert, M., & Maric, M. (2020). Using Bayesian methods to test mediators of intervention outcomes in single case experimental designs (SCEDs). *Evidence-Based Communication Assessment and Intervention, 14*(1-2). (https://doi.org/10.1080/17489539.2020.1732029) 
 - **Klaassen, F.** (2020). Combining evidence over multiple individual analyses. In R. Van de Schoot & M. Miocevic (Eds.), *Small sample size solutions: A guide for applied researchers and practitioners.* Routledge.
 - Kuiling, J.M.E., **Klaassen, F.** & Hagenaars, M.A. (2019). The role of tonic immobility and control in the development of intrusive memories after experimental trauma. *Memory, 27*(6). [[Full-text]](https://doi.org/10.1080/09658211.2018.1564331)
 - van der Ham, I. J. M., **Klaassen, F.**, van Schie, K., and Cuperus, A. (2019). Elapsed time estimates in virtual reality and the physical world: The role of arousal and emotional valence. *Computers in Human Behavior, 94.* [[Pre-print]](https://doi.org/10.1016/j.chb.2019.01.005)
