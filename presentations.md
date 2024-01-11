@@ -3,6 +3,15 @@ layout: page
 title: Presentations
 permalink: /presentations/
 ---
+## 2023
+- **Klaassen, F**, Holm, RH, Smith, T, Cohen, T, Bhatnagar, A, and Menzies, NA. (2023). Presentation: Incorporating wastewater data to enhance predictive performance of infectious disease nowcasting. Society for Medical Decision Making, Philadelphia, PA, USA.
+- **Klaassen, F**, Chitwood, MH, Cohen, T, Pitzer, VE, Russi, M, Swartwood, NA, Salomon, JA and Menzies, NA. (2023). Presentation: Characterizing pathways to population immunity against SARS-CoV-2. Freeman-Seage Symposium, Harvard School of Public Health, Boston, MA, USA.
+- **Klaassen, F**, Chitwood, MH, Cohen, T, Pitzer, VE, Russi, M, Swartwood, NA, Salomon, JA and Menzies, NA. (2023). Poster: Characterizing pathways to population immunity against SARS-CoV-2. Society for Medical Decision Making, Philadelphia, PA, USA.
+
+## 2022
+- **Klaassen, F** (2022). Invited talk: Bayesian hypothesis testing and modeling. McGill University, Montreal, Canada.
+- **Klaassen, F** (2022). Invited talk: Using RStan for Bayesian statistics. Harvard Data Science Initiative R User Group, Boston, MA, USA.
+
 ## 2019
 
 **Klaassen, F.**, Kumar, A. and Rouder, J. (2019). Presentation: (Not) everybody does: Testing for individual differences and similarities in hierarchical data. *International Multilevel Conference, Utrecht, the Netherlands.* [[Slides]](https://fayetteklaassen.github.io/files/presentations/2019-MLslides.pdf)
