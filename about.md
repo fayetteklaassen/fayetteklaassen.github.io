@@ -14,7 +14,7 @@ During a research visit to prof.dr. Jeff Rouder at University of California, Irv
 
 Here you can find an overview of [my research](papers.md), [presentations](presentations.md) at conferences and workshops, and [software](software.md) I developed.
 
-You can download my complete resume [here (version January 2024)](https://fayetteklaassen.github.io/files/resume.pdf).
+You can download my complete resume [here (version July 2025)](https://fayetteklaassen.github.io/files/resume.pdf).
 
 ### Contact me
 
